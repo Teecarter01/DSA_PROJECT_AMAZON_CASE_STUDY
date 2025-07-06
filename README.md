@@ -48,8 +48,8 @@ This analysis helps in:
 ✅ Presenting findings in a clear, visual format.
 
 ## *Click* to see the Excel Workbook 
-![AMAZON DASHBOARD](https://github.com/user-attachments/assets/8e4ae5db-1bde-4b53-b3d7-e361f3589fe0)
 
+[Amazon case study  PROJECT.xlsx](https://github.com/user-attachments/files/21091021/Amazon.case.study.PROJECT.xlsx)
 
 
 # THE DASHBOARD 
