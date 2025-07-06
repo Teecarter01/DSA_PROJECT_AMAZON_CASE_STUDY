@@ -47,7 +47,7 @@ This analysis helps in:
 ✅ Aligning discount strategies with customer ratings.  
 ✅ Presenting findings in a clear, visual format.
 
-## *Click* to see the Excel Workbook[ [Amazon case study  PROJECT.xlsx]](https://github.com/Teecarter01/DSA_PROJECT_AMAZON_CASE_STUDY/commit/8199c7fa2617b44f19a747f61dc3a80b041c2761#diff-8e355604f4795422ccbdd301c33c7505d3712d38293bac6fa5575dabfa5e4c33)
+## *Click* to see the Excel Workbook[ [Amazon case study  PROJECT.xlsx]](https://github.com/Teecarter01/DSA_PROJECT_AMAZON_CASE_STUDY/commit/8199c7fa2617b44f19a747f61dc3a80b041c2761#diff-8e355604f4795422ccbdd301c33c7505d3712d38293bac6fa5575dabfa5e4c33) Amazon case study  PROJECT.xlsx
 
 
 # THE DASHBOARD 
