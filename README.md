@@ -6,6 +6,7 @@ A structured *Excel dashboard analysis and visualization* of Amazon product data
 ## 🚀 Overview
 
 This case study analyzes Amazon product data with the following goals:
+
 ✅ Identify discount effectiveness across categories.  
 ✅ Understand product and category performance based on ratings and reviews.  
 ✅ Estimate potential revenue using review and rating data.  
@@ -46,3 +47,6 @@ This analysis helps in:
 ✅ Aligning discount strategies with customer ratings.  
 ✅ Presenting findings in a clear, visual format.
 
+# THE DASHBOARD 
+
+![AMAZON DASHBOARD](https://github.com/user-attachments/assets/ad762016-2b0e-486b-8b16-a3f7feb325e5)
