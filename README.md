@@ -22,7 +22,12 @@ This case study analyzes Amazon product data with the following goals:
   - Pre-created sections for pivot tables and charts for structured analysis.
   
 
+## TOOLS USED 
+- MS Excel (for Analysis and the Dashboard)
+- MS Power Point (for arrange the Dashboard propely on a sheet)
+- Adobe PhotoShop (Exporting and photo Set-up)
 
+ --- 
 - **Amazon_Case_Study_Infographic.png**  
   A one-page infographic summarizing key insights visually for your notes, slides, or sharing.
 
