@@ -56,4 +56,4 @@ This analysis helps in:
 
 # THE DASHBOARD 
 
-
+<img width="3600" height="4000" alt="amazon_insights_visuals" src="https://github.com/user-attachments/assets/fe915716-87b0-4e68-b0e0-5d5fdb166fb5" />
